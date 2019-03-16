@@ -17,7 +17,7 @@ baseurl: ""
 title: Giyoung Jeon
 
 # Short description of your site
-description: Notebooks written by me
+description: Scribbled Knowledge
 
 # --- Navigation bar options --- #
 
@@ -160,7 +160,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "posts/page:num"
+paginate_path: "_posts/"
 
 kramdown:
   input: GFM
